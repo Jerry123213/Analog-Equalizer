@@ -1,0 +1,27 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 63 0 -64 -56
+LINE Normal -64 56 63 0
+LINE Normal -64 56 -64 -56
+LINE Normal 0 -28 0 -64
+LINE Normal 0 28 0 64
+WINDOW 0 0 -94 Bottom 2
+WINDOW 3 -2 118 Top 2
+SYMATTR Value OPAx134
+SYMATTR Prefix X
+SYMATTR ModelFile C:\Users\jerry\OneDrive\Documents\sbom042f\OPAx134.LIB
+PIN -64 16 LEFT 8
+PINATTR PinName IN+
+PINATTR SpiceOrder 1
+PIN -64 -16 LEFT 8
+PINATTR PinName IN-
+PINATTR SpiceOrder 2
+PIN 0 -64 RIGHT 8
+PINATTR PinName VCC
+PINATTR SpiceOrder 3
+PIN 0 64 RIGHT 8
+PINATTR PinName VEE
+PINATTR SpiceOrder 4
+PIN 64 0 LEFT 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 5
