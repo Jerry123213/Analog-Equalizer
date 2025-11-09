@@ -9,7 +9,7 @@ WINDOW 0 0 -94 Bottom 2
 WINDOW 3 -2 118 Top 2
 SYMATTR Value OPAx134
 SYMATTR Prefix X
-SYMATTR ModelFile C:\Users\jerry\OneDrive\Documents\sbom042f\OPAx134.LIB
+SYMATTR ModelFile C:\Analog Eq\Analog-Equalizer\LTSpice\sym\OPAx134.lib
 PIN -64 16 LEFT 8
 PINATTR PinName IN+
 PINATTR SpiceOrder 1
